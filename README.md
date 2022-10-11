@@ -9,8 +9,8 @@
 - 🤔 I’m looking for my next job.
 - ⚡ Fun fact: I have a guitar <a href="https://www.youtube.com/channel/UCs39rieWMxwcqCk4CJgFZ2w">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" width="75" align="center" alt="Youtube Badge"/></a> channel. 
-<div>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=taldr27&show_icons=true&locale=en&layout=compact" alt="taldr27" /></p>
+<div >
+<p<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=taldr27&show_icons=true&locale=en&layout=compact" alt="taldr27" /></p>
 <div align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=taldr27&theme=gotham&hide_border=true"/></a></div>
 </div>
 
