@@ -4,8 +4,8 @@
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="37" align="center" />
 </div
 
-- 🔭 I’m currently working on Full Stack Web Develpment.
-- 🌱 I’m currently learning JavaScript and React.
+- 🔭 I’m currently working on Full Stack Web Development.
+- 🌱 I’m currently learning TypeScript and Express.
 - 🤔 I’m looking for my next job.
 - ⚡ Fun fact: I have a guitar <a href="https://www.youtube.com/channel/UCs39rieWMxwcqCk4CJgFZ2w">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" width="75" align="center" alt="Youtube Badge"/></a> channel. 
