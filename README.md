@@ -32,8 +32,9 @@ From: 27 April 2023 - To: 28 May 2023
 
 Total Time: 80 hrs 28 mins
 
-JavaScript   69 hrs 26 mins  █████████████████████▒░░░   85.85 %
+JavaScript   69 hrs 26 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀   85.85 %
+CSS          5 hrs 42 mins   ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.05 %
+HTML         1 hr 48 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.23 %
 ```
-<!--START_SECTION:LANG_PER_PROJECT-->
-<!--END_SECTION:LANG_PER_PROJECT-->
+
 <!--END_SECTION:waka-->
