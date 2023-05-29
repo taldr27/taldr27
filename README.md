@@ -25,6 +25,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="45" height="45"/>&nbsp;
 </div>
 
-
-
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
