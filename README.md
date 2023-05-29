@@ -30,7 +30,9 @@
 ```text
 From: 27 April 2023 - To: 28 May 2023
 
-JavaScript   69 hrs 26 mins  >>>>>>>>>>>>>>>>>>>>>----   85.85 %
+Total Time: 80 hrs 28 mins
+
+JavaScript   69 hrs 26 mins  █████████████████████▒░░░   85.85 %
 ```
 
 <!--END_SECTION:waka-->
