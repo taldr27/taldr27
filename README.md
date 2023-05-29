@@ -9,7 +9,20 @@
 - 🤔 I’m looking for my next job.
 - ⚡ Fun fact: I have a guitar <a href="https://www.youtube.com/channel/UCs39rieWMxwcqCk4CJgFZ2w">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" width="75" align="center" alt="Youtube Badge"/></a> channel. 
-<div >
+<!--START_SECTION:waka-->
+
+```text
+From: 27 April 2023 - To: 28 May 2023
+
+Total Time: 80 hrs 28 mins
+
+JavaScript   69 hrs 26 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀   85.85 %
+CSS          5 hrs 42 mins   ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.05 %
+HTML         1 hr 48 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.23 %
+```
+
+<!--END_SECTION:waka-->
+<div>
 <p<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=taldr27&show_icons=true&locale=en&layout=compact" alt="taldr27" /></p>
 <div align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=taldr27&theme=gotham&hide_border=true"/></a></div>
 </div>
@@ -24,17 +37,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="45" height="45"/>&nbsp;
 </div>
-
-<!--START_SECTION:waka-->
-
-```text
-From: 27 April 2023 - To: 28 May 2023
-
-Total Time: 80 hrs 28 mins
-
-JavaScript   69 hrs 26 mins  ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀   85.85 %
-CSS          5 hrs 42 mins   ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.05 %
-HTML         1 hr 48 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.23 %
-```
-
-<!--END_SECTION:waka-->
