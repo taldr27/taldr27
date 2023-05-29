@@ -34,5 +34,6 @@ Total Time: 80 hrs 28 mins
 
 JavaScript   69 hrs 26 mins  █████████████████████▒░░░   85.85 %
 ```
-
+<!--START_SECTION:LANG_PER_PROJECT-->
+<!--END_SECTION:LANG_PER_PROJECT-->
 <!--END_SECTION:waka-->
