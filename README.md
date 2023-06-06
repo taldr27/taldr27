@@ -36,7 +36,7 @@ ERB          3 hrs 39 mins   ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
             </a>
     </td>
     <td align="center">
-             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taldr27&show_icons=true&locale=en&layout=compact&theme=dark" alt="taldr27" />
+             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taldr27&show_icons=true&locale=en&layout=compact&theme=white" alt="taldr27" />
     </td>
   </tr>
 </table>
