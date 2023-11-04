@@ -14,11 +14,11 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           SHOW_TITLE: true
-          BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
+          BLOCKS: '⠂⠄⡀⢀⠠⠐⠈'
           SHOW_TOTAL: true
           TIME_RANGE: all_time
           SHOW_TIME: true
-          LANG_COUNT: 5
-          COMMIT_MSG: "Automated Coding Activity Update :alien:"
+          LANG_COUNT: 10
+          COMMIT_MESSAGE: "Coding Activity Update :alien:"
           COMMITTER_NAME: taldr27
           COMMITTER_EMAIL: diegogarciaq98@gmail.com
