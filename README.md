@@ -38,9 +38,6 @@ HTML         6 hrs 3 mins    ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
               <img src="https://streak-stats.demolab.com?user=taldr27&theme=gotham&hide_border=true" />
             </a>
     </td>
-    <td align="center">
-             <img src="https://github-readme-stats.vercel.app/api/top-langs?username=taldr27&show_icons=true&locale=en&layout=compact&theme=white" alt="taldr27" />
-    </td>
   </tr>
 </table>
 
