@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Diego Garcia</h1>
+<h1 align="center">Hello <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZ2OXR6ODJ4cWpjMDhwNng5cHZsZ2hldnpxa2xmczFyNHFrZXI2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IGXSjkjFRCL65tbr1p/giphy.gif" width="30px"/>, I'm Diego Garcia</h1>
 
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=taldr27&style=plastic&color=brightgreen" alt="" align="center"/>
