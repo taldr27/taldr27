@@ -18,7 +18,8 @@ jobs:
           SHOW_TOTAL: true
           TIME_RANGE: all_time
           SHOW_TIME: true
-          LANG_COUNT: 15
+          LANG_COUNT: 7
+          LANG_EXCLUDE: "Other,HTML,SCSS,JSON,CSS"
           COMMIT_MESSAGE: "Coding Activity Update :alien:"
           COMMITTER_NAME: taldr27
           COMMITTER_EMAIL: diegogarciaq98@gmail.com
