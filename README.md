@@ -6,7 +6,7 @@
 </div
 
 - 🔭 I’m a Full Stack Web Developer.
-- 🌱 I’m currently learning TypeScript and Scala.
+- 🌱 I’m currently learning Next and NodeJS.
 - 🤔 I’m looking for my next job.
 - ⚡ Fun fact: I have a guitar <a href="https://www.youtube.com/channel/UCs39rieWMxwcqCk4CJgFZ2w">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" width="75" align="center" alt="Youtube Badge"/></a> channel. 
