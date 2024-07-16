@@ -17,9 +17,9 @@ jobs:
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           SHOW_TOTAL: true
           TIME_RANGE: all_time
-          LANG_COUNT: 10
+          LANG_COUNT: 9
           SHOW_TIME: true
-          IGNORED_LANGUAGES: OTHER HTML
+          IGNORED_LANGUAGES: Other HTML
           COMMIT_MESSAGE: "Coding Activity Update :alien:"
           COMMITTER_NAME: ${{ secrets.COMMITTER_NAME }}
           COMMITTER_EMAIL: ${{ secrets.COMMITTER_EMAIL }}
