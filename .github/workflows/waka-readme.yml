@@ -18,8 +18,8 @@ jobs:
           SHOW_TOTAL: true
           TIME_RANGE: all_time
           LANG_COUNT: 10
-          IGNORED_LANGUAGES: OTHER HTML
           SHOW_TIME: true
+          IGNORED_LANGUAGES: OTHER HTML
           COMMIT_MESSAGE: "Coding Activity Update :alien:"
-          COMMITTER_NAME: taldr27
-          COMMITTER_EMAIL: diegogarciaq98@gmail.com
+          COMMITTER_NAME: ${{ secrets.COMMITTER_NAME }}
+          COMMITTER_EMAIL: ${{ secrets.COMMITTER_EMAIL }}
