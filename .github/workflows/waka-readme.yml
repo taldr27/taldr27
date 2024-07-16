@@ -17,7 +17,8 @@ jobs:
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           SHOW_TOTAL: true
           TIME_RANGE: all_time
-          LANG_COUNT: 15
+          LANG_COUNT: 10
+          IGNORED_LANGUAGES: OTHER HTML
           SHOW_TIME: true
           COMMIT_MESSAGE: "Coding Activity Update :alien:"
           COMMITTER_NAME: taldr27
