@@ -16,15 +16,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 April 2023 - To: 26 February 2025
+From: 27 April 2023 - To: 27 February 2025
 
-Total Time: 1,647 hrs 44 mins
+Total Time: 1,652 hrs 12 mins
 
-TypeScript                 924 hrs 15 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.11 %
-JavaScript                 199 hrs 8 mins  ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.88 %
-Scala                      125 hrs 13 mins ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.47 %
-Dart                       77 hrs 9 mins   ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.60 %
-Vue.js                     72 hrs 39 mins  ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.33 %
+TypeScript                 928 hrs 42 mins ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   55.23 %
+JavaScript                 199 hrs 8 mins  ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.84 %
+Scala                      125 hrs 13 mins ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   07.45 %
+Dart                       77 hrs 9 mins   ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.59 %
+Vue.js                     72 hrs 39 mins  ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.32 %
 ```
 
 <!--END_SECTION:waka-->
