@@ -17,7 +17,7 @@ jobs:
           BLOCKS: ⣀⣄⣤⣦⣶⣷⣿
           SHOW_TOTAL: true
           TIME_RANGE: all_time
-          LANG_COUNT: 15
+          LANG_COUNT: 5
           SHOW_TIME: true
           COMMIT_MESSAGE: "Coding Activity Update :alien:"
           COMMITTER_NAME: ${{ secrets.COMMITTER_NAME }}
