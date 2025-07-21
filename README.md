@@ -16,14 +16,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 April 2023 - To: 20 July 2025
+From: 27 April 2023 - To: 21 July 2025
 
-Total Time: 2,290 hrs 5 mins
+Total Time: 2,292 hrs 31 mins
 
-TypeScript                 1,533 hrs 48 mins⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀   65.93 %
-JavaScript                 200 hrs 15 mins ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.61 %
+TypeScript                 1,536 hrs 14 mins⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⣀⣀⣀⣀⣀   65.96 %
+JavaScript                 200 hrs 15 mins ⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   08.60 %
 Scala                      125 hrs 13 mins ⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   05.38 %
-Dart                       77 hrs 9 mins   ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.32 %
+Dart                       77 hrs 9 mins   ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.31 %
 Vue.js                     72 hrs 39 mins  ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.12 %
 ```
 
