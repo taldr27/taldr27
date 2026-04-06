@@ -16,7 +16,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 April 2023 - To: 05 April 2026
+From: 27 April 2023 - To: 06 April 2026
 
 Total Time: 3,488 hrs 5 mins
 
