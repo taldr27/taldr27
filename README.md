@@ -52,9 +52,9 @@ Vue.js                     72 hrs 39 mins        ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀�
   </a>
 </p>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/kittinan/spotify-github-profile">
-    <img alt="Spotify" width="220" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rzpf3swllyaki55icpoaomcsou&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=1db954" />
+    <img alt="Spotify" width="220" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rzpf3swllyaki55icpoaomcsou&cover_image=true&theme=natemoo-re&show_offline=false&background_color=0d1117&bar_color=1db954" />
   </a>
 </p>
 
