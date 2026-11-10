@@ -6,7 +6,7 @@
 </div>
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31rzpf3swllyaki55icpoaomcsou&redirect=true">
-  <img align="right" alt="Now playing" width="210" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rzpf3swllyaki55icpoaomcsou&cover_image=false&theme=default&background_color=0d1117&border_radius=6&profanity=true&hide_remaster=true&bar_color=1db954" />
+  <img align="right" alt="Spotify" width="240" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rzpf3swllyaki55icpoaomcsou&cover_image=false&theme=natemoo-re&profanity=true&hide_remaster=true&bar_color=1db954" />
 </a>
 
 - 🔭 I’m a Full Stack Web Developer.
