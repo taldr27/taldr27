@@ -4,8 +4,8 @@
   <img align="right" alt="Spotify" width="280" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rzpf3swllyaki55icpoaomcsou&cover_image=true&theme=natemoo-re&profanity=true&hide_remaster=true&bar_color=1db954" />
 </a>
 <div align="left">
+  <img src="views-mascot.gif" width="37" align="center" />
   <img src="https://komarev.com/ghpvc/?username=taldr27&style=plastic&color=brightgreen" alt="" align="center" />
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="37" align="center" />
 </div>
 <br clear="both" />
 
