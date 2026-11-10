@@ -1,18 +1,13 @@
 <h1 align="center">Hello <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZ2OXR6ODJ4cWpjMDhwNng5cHZsZ2hldnpxa2xmczFyNHFrZXI2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IGXSjkjFRCL65tbr1p/giphy.gif" width="30px"/>, I'm Diego Garcia</h1>
 
-<table border="0" width="100%">
-  <tr>
-    <td align="left">
-      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31rzpf3swllyaki55icpoaomcsou&redirect=true">
-        <img alt="Now playing" width="210" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rzpf3swllyaki55icpoaomcsou&cover_image=false&theme=default&background_color=0d1117&border_radius=6&profanity=true&hide_remaster=true&bar_color=1db954" />
-      </a>
-    </td>
-    <td align="right">
-      <img src="https://komarev.com/ghpvc/?username=taldr27&style=plastic&color=brightgreen" alt="" />
-      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="37" />
-    </td>
-  </tr>
-</table>
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31rzpf3swllyaki55icpoaomcsou&redirect=true">
+  <img align="left" alt="Now playing" width="210" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rzpf3swllyaki55icpoaomcsou&cover_image=false&theme=default&background_color=0d1117&border_radius=6&profanity=true&hide_remaster=true&bar_color=1db954" />
+</a>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=taldr27&style=plastic&color=brightgreen" alt="" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="37" />
+</div>
+<br clear="both" />
 
 - 🔭 I’m a Full Stack Web Developer.
 - 🌱 I’m currently learning Next and NodeJS.
