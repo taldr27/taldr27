@@ -44,11 +44,11 @@ Vue.js                     72 hrs 39 mins        ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 ### <p align="center">:hammer_and_wrench: Languages and Tools :</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,nuxtjs,tailwind,sass" />
     <br>
-    <img src="https://skillicons.dev/icons?i=tailwind,sass,jest,postgres,ruby,rails,nodejs,scala" />
+    <img src="https://skillicons.dev/icons?i=jest,postgres,ruby,rails,nodejs,scala,docker,git" />
     <br>
-    <img src="https://skillicons.dev/icons?i=docker,git,idea,linux,mysql,notion,postman" />
+    <img src="https://skillicons.dev/icons?i=idea,linux,mysql,notion,postman" />
   </a>
 </p>
 
