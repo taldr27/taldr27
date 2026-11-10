@@ -1,19 +1,21 @@
 <h1 align="center">Hello <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGZ2OXR6ODJ4cWpjMDhwNng5cHZsZ2hldnpxa2xmczFyNHFrZXI2YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/IGXSjkjFRCL65tbr1p/giphy.gif" width="30px"/>, I'm Diego Garcia</h1>
 
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31rzpf3swllyaki55icpoaomcsou&redirect=true">
-  <img align="left" alt="Now playing" width="210" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rzpf3swllyaki55icpoaomcsou&cover_image=false&theme=default&background_color=0d1117&border_radius=6&profanity=true&hide_remaster=true&bar_color=1db954" />
-</a>
 <div align="right">
   <img src="https://komarev.com/ghpvc/?username=taldr27&style=plastic&color=brightgreen" alt="" />
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="37" />
 </div>
-<br clear="both" />
+
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31rzpf3swllyaki55icpoaomcsou&redirect=true">
+  <img align="right" alt="Now playing" width="210" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rzpf3swllyaki55icpoaomcsou&cover_image=false&theme=default&background_color=0d1117&border_radius=6&profanity=true&hide_remaster=true&bar_color=1db954" />
+</a>
 
 - 🔭 I’m a Full Stack Web Developer.
 - 🌱 I’m currently learning Next and NodeJS.
 - 🤔 I’m looking for my next job.
 - ⚡ Fun fact: I have a guitar <a href="https://www.youtube.com/channel/UCs39rieWMxwcqCk4CJgFZ2w">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" width="75" align="center" alt="Youtube Badge"/></a> channel. 
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" width="75" align="center" alt="Youtube Badge"/></a> channel.
+
+<br clear="right" /> 
 
 ###
 <div align="center">
