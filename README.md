@@ -31,7 +31,7 @@ Vue.js                     72 hrs 39 mins        ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 </div>
 
 ###
-<table align="center" border="2" width="100%">
+<table align="center" border="0" width="100%">
   <tr>
     <td align="center">
             <a href="https://git.io/streak-stats">
