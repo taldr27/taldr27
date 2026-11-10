@@ -11,6 +11,12 @@
 - ⚡ Fun fact: I have a guitar <a href="https://www.youtube.com/channel/UCs39rieWMxwcqCk4CJgFZ2w">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" width="75" align="center" alt="Youtube Badge"/></a> channel. 
 
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img alt="Spotify" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31rzpf3swllyaki55icpoaomcsou&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&bar_color=1db954" />
+  </a>
+</p>
+
 ###
 <div align="center">
 <!--START_SECTION:waka-->
