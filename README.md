@@ -3,7 +3,7 @@
 <div align="right">
 <img src="https://komarev.com/ghpvc/?username=taldr27&style=plastic&color=brightgreen" alt="" align="center"/>
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="37" align="center" />
-</div
+</div>
 
 - 🔭 I’m a Full Stack Web Developer.
 - 🌱 I’m currently learning Next and NodeJS.
